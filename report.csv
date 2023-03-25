@@ -1,0 +1,29 @@
+school_name,address,phone,email,num_stud,num_teachers
+Gryffindor,"London, UK",9745123,gryffindor@gmail.com,10,3
+name,familyname,age,gender,nationality,id,school,subjects,person_role
+Harry,Potter,14,male,Wizard,497130,Gryffindor,"{'History of Magic', 'Poison', 'Math'}",student
+Ronald,Weasley,14,male,Wizard,796855,Gryffindor,"{'Astronomy', 'History of Magic', 'English'}",student
+Neville,Longbottom,14,male,Wizard,380754,Gryffindor,"{'Pysics', 'History of Magic', 'Poison', 'English'}",student
+Dean,Thomas,14,male,Wizard,353310,Gryffindor,"{'Kazakh', 'History of Magic', 'Transfiguration'}",student
+Seamus,Finnigan,14,male,Wizard,885536,Gryffindor,"{'Herbology', 'Russian', 'History of Magic'}",student
+Hermione,Granger,14,female,Muggle,583523,Gryffindor,"{'Russian', 'Poison', 'History of Magic', 'English'}",student
+Lavender,Brown,14,female,Wizard,740895,Gryffindor,"{'History of Magic', 'Math', 'Charms'}",student
+Parvati,Patil,14,female,Wizard,349996,Gryffindor,"{'History of Magic', 'Dark Arts', 'Pysics'}",student
+Cormac,McLaggen,14,male,Wizard,624665,Gryffindor,"{'History of Magic', 'Geography', 'Defence Against the Dark Arts'}",student
+Harry,Damon,14,male,Wizard,595101,Gryffindor,"{'Astronomy', 'History of Magic', 'Geography'}",student
+Gilderoy,Lockhart,31,male,Wizard,159259,Gryffindor,"{'History of Magic', 'English'}",teacher
+Filius,Flitwick,50,male,Wizard,741677,Gryffindor,"{'Poison', 'Math'}",teacher
+John,Lockhart,31,male,Wizard,254464,Gryffindor,{'Chemistry'},teacher
+Ernie,Macmillan,14,male,Wizard,23678,Hufflepuff,"{'History of Magic', 'Poison', 'Math'}",student
+Justin,Finch-Fletchley,14,male,Wizard,70462,Hufflepuff,"{'Astronomy', 'History of Magic', 'Math'}",student
+Hannah,Abbott,14,female,Wizard,10063,Hufflepuff,"{'History of Magic', 'Poison', 'Math'}",student
+Susan,Bones,14,female,Wizard,45607,Hufflepuff,"{'History of Magic', 'Transfiguration', 'Math'}",student
+Bridget,Wenlock,14,female,Wizard,16587,Hufflepuff,"{'Herbology', 'History of Magic', 'Math'}",student
+Cedric,Diggory,14,male,Muggle,71226,Hufflepuff,"{'History of Magic', 'Poison', 'Math'}",student
+Fat,Friar,14,male,Wizard,24146,Hufflepuff,"{'History of Magic', 'Math', 'Charms'}",student
+Newton,Scamander,14,male,Wizard,78435,Hufflepuff,"{'History of Magic', 'Dark Arts', 'Math'}",student
+Pomona,Sprout,14,male,Wizard,85181,Hufflepuff,"{'History of Magic', 'Defence Against the Dark Arts', 'Math'}",student
+Ernie,Rodriguez,14,male,Wizard,35738,Hufflepuff,{'Math'},student
+Poppy,Pomphey,58,female,Wizard,49377,Hufflepuff,"{'Herbology', 'Math'}",teacher
+Sybill,Trelawney,47,female,Wizard,51957,Hufflepuff,"{'Biology', 'Charms'}",teacher
+Penelopa,Pomphey,58,female,Wizard,53712,Hufflepuff,{'Biology'},teacher
